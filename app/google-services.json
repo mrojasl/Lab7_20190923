@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6335893345",
+    "project_id": "lab7-caf9a",
+    "storage_bucket": "lab7-caf9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6335893345:android:2205021fb7c348a28b3f20",
+        "android_client_info": {
+          "package_name": "com.example.lab7_20190923"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBplx9aG4z3EHl6CBXfzi2nOKTFNZ4naoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
